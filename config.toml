@@ -1,4 +1,50 @@
-baseURL = "https://wastenott.com"
-languageCode = "en-uk"
-title = "Waste Nott"
-theme = "ananke"
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "WASTE NOTT"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+  subtitle = "Affordable goods without the packaging"
+  logo = "img/logo.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = false
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = false
+
+[[Params.bigimg]]
+  src = "img/triangle.jpg"
+  desc = "Triangle"
+[[Params.bigimg]]
+  src = "img/sphere.jpg"
+  desc = "Sphere"
+  # position: see values of CSS background-position.
+  position = "center top"
+[[Params.bigimg]]
+  src = "img/hexagon.jpg"
+  desc = "Hexagon"
+
+[Author]
+  website = "wastenott.com"
+  email = "contact@wastenott.com"
+  facebook = "username"
+  github = "wastenott"
+  twitter = "username"
+  instagram = "username"
+
+#[[menu.main]]
+    #name = "Blog"
+    #url = ""
+    #weight = 1
