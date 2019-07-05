@@ -25,7 +25,7 @@ pygmentsCodefencesGuessSyntax = true
   showRelatedPosts = false
 
 [[Params.bigimg]]
-  src = "img/shop_window.png"
+  src = "img/shop_window.jpg"
 
 [Author]
   website = "wastenott.com"
