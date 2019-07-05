@@ -1,0 +1,41 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+#DefaultContentLanguage = "ja"
+title = "WASTE NOTT"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+  subtitle = "Affordable goods without the packaging"
+  logo = "img/logo.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = false
+  wordCount = false
+  useHLJS = false
+  socialShare = false
+  delayDisqus = false
+  showRelatedPosts = false
+
+[[Params.bigimg]]
+  src = "img/shop_window.jpg"
+
+[Author]
+  website = "wastenott.com"
+  email = "contact@wastenott.com"
+  facebook = "wastenott"
+  github = "wastenott"
+  twitter = "wastenott"
+  instagram = "wastenott"
+
+#[[menu.main]]
+    #name = "Blog"
+    #url = ""
+    #weight = 1
