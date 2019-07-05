@@ -25,24 +25,15 @@ pygmentsCodefencesGuessSyntax = true
   showRelatedPosts = false
 
 [[Params.bigimg]]
-  src = "img/triangle.jpg"
-  desc = "Triangle"
-[[Params.bigimg]]
-  src = "img/sphere.jpg"
-  desc = "Sphere"
-  # position: see values of CSS background-position.
-  position = "center top"
-[[Params.bigimg]]
-  src = "img/hexagon.jpg"
-  desc = "Hexagon"
+  src = "img/shop_window.png"
 
 [Author]
   website = "wastenott.com"
   email = "contact@wastenott.com"
-  facebook = "username"
+  facebook = "wastenott"
   github = "wastenott"
-  twitter = "username"
-  instagram = "username"
+  twitter = "wastenott"
+  instagram = "wastenott"
 
 #[[menu.main]]
     #name = "Blog"

@@ -10,24 +10,24 @@
 
 @font-face {
     font-family: 'national_parkoutline';
-    src: url('fonts/nationalpark-outline-webfont.woff2') format('woff2'),
-         url('fonts/nationalpark-outline-webfont.woff') format('woff');
+    src: url('../fonts/nationalpark-outline-webfont.woff2') format('woff2'),
+         url('../fonts/nationalpark-outline-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'national_parkregular';
-    src: url('fonts/nationalpark-regular-webfont.woff2') format('woff2'),
-         url('fonts/nationalpark-regular-webfont.woff') format('woff');
+    src: url('../fonts/nationalpark-regular-webfont.woff2') format('woff2'),
+         url('../fonts/nationalpark-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'national_parkthin';
-    src: url('fonts/nationalpark-thin-webfont.woff2') format('woff2'),
-         url('fonts/nationalpark-thin-webfont.woff') format('woff');
+    src: url('../fonts/nationalpark-thin-webfont.woff2') format('woff2'),
+         url('../fonts/nationalpark-thin-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
